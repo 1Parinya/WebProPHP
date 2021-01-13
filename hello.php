@@ -6,9 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>HELLO</h2>
-    <h2>Bangkok</h2>
+    
     <a href="content/data.html">Link to data html</a>
     
+<?php
+    echo ("<h1>Hello</h1><br>");
+    echo ("<h2>Bangkok</h2>");
+?>
+
 </body>
 </html>
