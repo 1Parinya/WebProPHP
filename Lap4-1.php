@@ -19,7 +19,7 @@
                 echo "ผลบวก 100+200 =".$add; echo "<br />";
                 echo "ผลลบ 300-100 =".$sub; echo "<br />";
 
-                echo "ผลคูณ 300 * 200 =".$cuu; echo "<br />";
+                echo "ผลคูณ 200 * 300 =".$cuu; echo "<br />";
                 echo "ผลหาร 600 / 300 =".$han; echo "<br />";
                 echo $message; echo "<br />";
         ?>
