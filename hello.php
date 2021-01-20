@@ -7,11 +7,11 @@
 </head>
 <body>
     
-    <a href="content/data.html">Link to data html</a>
+
     
 <?php
     echo ("<h1>Hello</h1><br>");
-    echo ("<h2>Bangkok</h2>");
+    echo ("<h2>INDEX.PHP</h2>");
 ?>
 
 </body>
