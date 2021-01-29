@@ -60,10 +60,9 @@
                         echo ("<h3>GRADE  : ".$grade3."</h3>");  
                         //GPA
                         echo ("<h3>GPA : ".($total."</h3>"));
-
-
                 ?>
             </div>
+            <center><a href="HW4webpro.php"> Back </a></center>
         </body>
 </html>
 
