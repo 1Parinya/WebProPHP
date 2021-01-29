@@ -12,7 +12,6 @@ error_reporting( error_reporting() & ~E_NOTICE );
         echo ("<h2>HOMEWORK  : ".$homework."</h2>");
         echo ("<h2>Total Score : ".($total."</h2>"));
 
-       
         //คำนวณเกรด
         if($total <= 49){
             echo"<h2>YOUR GRADE IS : ".("F</h2>");

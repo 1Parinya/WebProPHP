@@ -10,10 +10,10 @@
                     <h1>HW:3 CAL GRADE</h1>
                     <form action="CalHW3weppro.php" method="get">
                         <h2>
-                        FINAL : <input type="number" name="final" maxlength=”2”><br><br>
-                        MIDTERM : <input type="number" name="mid" ><br><br>
-                        ASSIGNMENT : <input type="number" name="asg" ><br><br>
-                        HOMEWORK : <input type="number" name="hw" ><br>
+                        FINAL : <input type="number" name="final" min="0" max="30"><br><br>
+                        MIDTERM : <input type="number" name="mid" min="0" max="30"><br><br>
+                        ASSIGNMENT : <input type="number" name="asg" min="0" max="20"><br><br>
+                        HOMEWORK : <input type="number" name="hw"  min="0" max="20"><br>
                         <br><br>
                         </h2>
                         <input type="submit">
