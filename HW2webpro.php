@@ -13,21 +13,21 @@
                     <h1>HW:2 SUM OF NUMBER</h1>
                     <form action="HW2webpro.php" method="get">
                     <h2>
-                        Num 1: <input type="text" name="num1" ><br><br>
+                        Num 1: <input type="number" name="num1" ><br><br>
                             <input type="radio" name="operator" value="+"> + :
                             <input type="radio" name="operator" value="-"> - :
                             <input type="radio" name="operator" value="*"> * :
                             <input type="radio" name="operator" value="/"> / :
                             <br><br>
 
-                        Num 2: <input type="text" name="num2" ><br><br>
+                        Num 2: <input type="number" name="num2" ><br><br>
                             <input type="radio" name="operator1" value="+"> + :
                             <input type="radio" name="operator1" value="-"> - :
                             <input type="radio" name="operator1" value="*"> * :
                             <input type="radio" name="operator1" value="/"> / :
                             <br><br>
 
-                        Num 3: <input type="text" name="num3" >
+                        Num 3: <input type="number" name="num3" >
                         <br><br><br>
                         </h2>
                         <input type="submit">

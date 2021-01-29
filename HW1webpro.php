@@ -13,9 +13,9 @@
                     <h1>HW:1 FIND MIN MAX AVERAGE</h1>
                     <form action="HW1webpro.php" method="get">
                     <h2>
-                        Num 1: <input type="text" name="num1" ><br>
-                        Num 2: <input type="text" name="num2" ><br>
-                        Num 3: <input type="text" name="num3" ><br>
+                        Num 1: <input type="number" name="num1" ><br>
+                        Num 2: <input type="number" name="num2" ><br>
+                        Num 3: <input type="number" name="num3" ><br>
                     
                         <br>
                         <input type="radio" name="operator"value="Minimum">Minimum<br>
