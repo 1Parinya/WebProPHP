@@ -1,4 +1,4 @@
-<?
+<?php
 // declare function page_header with argument and defualt value
 function page_header($title, $bgcolor = "ffffff") {
 echo '<html lang="en"><head><meta charset="UTF-8">';
@@ -17,7 +17,7 @@ function TestReference( &$num) {
 $num = $num + 20;
 }
 function show_form() {
-echo ' <form method="get" action="ch8-6.php">';
+echo ' <form method="get" action="L8-6.php">';
 echo '<table border="1" align="center" width="400">';
 echo '<tr><td colspan="2" align="center"><big>การส่งค่าอาร์กิวเมนต์</big></td></tr>';
 echo '<tr><td>การส่งแบบ : </td><td>';
