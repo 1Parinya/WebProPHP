@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <title> โปรแกรมค านวณเกรด </title>
 </head>
-
 <body>
     <?php
         $hw = $_GET['hw'];
@@ -26,7 +24,6 @@
         if ($total >= 80) 
         echo "Result Grade : <img src='picgrade/A.jpg'><br>";
         
-
         elseif ($total >= 70) 
         echo "Result Grade : <img src='picgrade/B.jpg'><br>";
 
@@ -41,7 +38,5 @@
         echo "<br>";
         echo "<a href='L6-11.php'> <big>Back </big></a>";
     ?>
-
 </body>
-
 </html>

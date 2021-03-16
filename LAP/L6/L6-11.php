@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-<!-- ชื่อไฟล์ : Exam06-11.php -->
+<!-- ชื่อไฟล์ : Exam06-11.php --> 
+<!--MODIFLYL6-11 -->
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <title> ตัวอย่าง Control statement ที่ 11 </title>
 </head>
 </head>
-
 <body>
     <form method="get" action="L6-11cal.php">
         <table border="1" align="center" width="500">
@@ -36,5 +35,4 @@
         </table>
     </form>
 </body>
-
 </html>

@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <title> ผลลัพธ์ ตัวอย่าง Control statement ที่12 </title>
 </head>
-
 <body>
     <?php
         $row = $_POST['row'];
@@ -13,7 +11,6 @@
         $rowMax = intval( $row);
         $colMax = intval( $column);
         
-
         echo "<table align='center' border='4' width='300'>";
         for($r = 1; $r <= $rowMax ; $r++) { //สร้างแถว
         echo "<tr>"; //สร้างแถว
@@ -36,5 +33,4 @@
     ?>
     <a href='L6-12.php'> Back </a>
 </body>
-
 </html>

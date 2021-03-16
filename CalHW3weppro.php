@@ -47,13 +47,8 @@
                         }
                         else if($total >100 ){
                             echo"<h2>YOUR GRADE IS : ".("SSS+ เก่งเกิ๊น</h2>");
-                        }
-                    
-                
-                            
+                        }                                          
                 ?>
-
-
             <a href="HW3webpro.php"> Back </a>
         </body>
 </html>
